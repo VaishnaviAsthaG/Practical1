@@ -1,42 +1,99 @@
-💻 Practical 1 – Basic Static Website
-📌 Project Overview
-This is a simple yet elegant static website designed using HTML, CSS, and JavaScript. The project was developed as part of a web development practical to demonstrate key frontend features like structured content, layout design, interactive effects, and form handling.
+# 💻 Practical 1 – Basic Static Website
 
-✨ Key Features
-✅ Responsive Layout – Optimized for desktop and mobile view using CSS media queries.
+## 📌 Project Overview
 
-📧 Contact Form – A functional contact section with fields for name, email, and message.
+This is a **simple yet elegant static website** developed using **HTML, CSS, and JavaScript**. It was built as part of a web development practical to demonstrate essential frontend development skills such as content structure, layout design, interactivity, and form handling.
 
-🌟 Hover Effects – Smooth fade-in/out transitions on images when hovered.
+---
 
-💬 Testimonial Section – Displays rotating user testimonials with basic JavaScript.
+## ✨ Key Features
 
-🎨 Clean Design – Simple and clean layout using modern CSS properties.
+* ✅ **Responsive Layout** – Optimized for desktop, tablet, and mobile screens using CSS media queries.
+* 📧 **Contact Form** – Interactive contact section with fields for name, email, and message.
+* 🌟 **Image Hover Effects** – Smooth fade-in/out transition effects when hovering over images.
+* 💬 **Testimonial Slider** – Displays rotating user testimonials with JavaScript interaction.
+* 🎨 **Clean UI Design** – Clean, minimalistic layout using modern CSS techniques.
 
-![Website Preview]
+---
 
-📁 Folder Structure
+## 🖼️ Website Preview
+
+> *(Add screenshot or GIF preview below to show what your site looks like)*
+
+```markdown
+![Website Preview](preview.png)
+```
+
+---
+
+## 📁 Folder Structure
+
+```
 Practical1/
-│
-├── index.html      # Main web page
-├── style.css       # All styling (responsive design, effects)
-├── script.js       # JavaScript (testimonial rotation, form interaction)
+├── index.html      # Main webpage
+├── style.css       # Styling and responsive design
+├── script.js       # JavaScript for interactivity
 └── README.md       # Project documentation
+```
 
-🎞️ Interactive Features
-Fade effect on hover – Applied to images in the service/gallery section.
+---
 
-Rotating testimonials – Automatically changes or on user interaction.
+## 🎞️ Interactive Features
 
-Smooth scroll and section spacing – Enhances user experience.
+* 🔄 **Fade Effect on Hover**
+  Applied to gallery or service images for a smooth visual transition.
+
+* 💬 **Rotating Testimonials**
+  Testimonials rotate on click or set time intervals via JavaScript.
+
+* 🧭 **Smooth Scroll and Section Spacing**
+  Enhances the flow and user experience while navigating between sections.
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose                    |
+| ---------- | -------------------------- |
+| HTML5      | Structuring web content    |
+| CSS3       | Styling and layout design  |
+| JavaScript | Interactivity & animations |
+
+---
+
+## 🧪 How to Run
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/VaishnaviAsthaG/Practical1.git
+   ```
+
+2. **Navigate to the folder**
+
+   ```bash
+   cd Practical1
+   ```
+
+3. **Open in a web browser**
+   Open `index.html` manually or via Live Server in VS Code.
+
+---
+
+## 👥 Authors
+
+* **Vaishnavi Astha Gupta**
+  🔗 GitHub: [@VaishnaviAsthaG](https://github.com/VaishnaviAsthaG)
+
+* **Vansh**
+  🔗 GitHub: [@Vansh0702](https://github.com/Vansh0702)
+
+---
+
+## 📜 License
+
+This project is **open-source** and free to use for educational or personal development purposes.
 
 
-✍️ Author
-Vansh
-📎 GitHub: @Vansh0702
-Vaishnavi Astha Gupta
-📎 GitHub: @VaishnaviAsthaG
 
-📜 License
-This project is open-source and available for educational or personal use.
 
